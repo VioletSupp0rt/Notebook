@@ -1,0 +1,14 @@
+C:\01.AndriiDocs\06.AndriiDocs\Институт\Лабы по ОПР\Курсовая\bin\Debug\net8.0\Курсовая.exe
+C:\01.AndriiDocs\06.AndriiDocs\Институт\Лабы по ОПР\Курсовая\bin\Debug\net8.0\Курсовая.deps.json
+C:\01.AndriiDocs\06.AndriiDocs\Институт\Лабы по ОПР\Курсовая\bin\Debug\net8.0\Курсовая.runtimeconfig.json
+C:\01.AndriiDocs\06.AndriiDocs\Институт\Лабы по ОПР\Курсовая\bin\Debug\net8.0\Курсовая.dll
+C:\01.AndriiDocs\06.AndriiDocs\Институт\Лабы по ОПР\Курсовая\bin\Debug\net8.0\Курсовая.pdb
+C:\01.AndriiDocs\06.AndriiDocs\Институт\Лабы по ОПР\Курсовая\obj\Debug\net8.0\Курсовая.GeneratedMSBuildEditorConfig.editorconfig
+C:\01.AndriiDocs\06.AndriiDocs\Институт\Лабы по ОПР\Курсовая\obj\Debug\net8.0\Курсовая.AssemblyInfoInputs.cache
+C:\01.AndriiDocs\06.AndriiDocs\Институт\Лабы по ОПР\Курсовая\obj\Debug\net8.0\Курсовая.AssemblyInfo.cs
+C:\01.AndriiDocs\06.AndriiDocs\Институт\Лабы по ОПР\Курсовая\obj\Debug\net8.0\Курсовая.csproj.CoreCompileInputs.cache
+C:\01.AndriiDocs\06.AndriiDocs\Институт\Лабы по ОПР\Курсовая\obj\Debug\net8.0\Курсовая.dll
+C:\01.AndriiDocs\06.AndriiDocs\Институт\Лабы по ОПР\Курсовая\obj\Debug\net8.0\refint\Курсовая.dll
+C:\01.AndriiDocs\06.AndriiDocs\Институт\Лабы по ОПР\Курсовая\obj\Debug\net8.0\Курсовая.pdb
+C:\01.AndriiDocs\06.AndriiDocs\Институт\Лабы по ОПР\Курсовая\obj\Debug\net8.0\Курсовая.genruntimeconfig.cache
+C:\01.AndriiDocs\06.AndriiDocs\Институт\Лабы по ОПР\Курсовая\obj\Debug\net8.0\ref\Курсовая.dll
